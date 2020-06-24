@@ -3,7 +3,7 @@ This is an elevator for 2 floors. One-button control
 ----------------------------------------------------
 atmega 328p (arduino nano) provided as is
 ```
-KEY            D2     One key 0.5 seconds between clicks
+KEY            D2     One button 0.5 seconds between clicks
 MAIN RELAY     D4     main relay timeout 5 minutes
 RELAY UP       D5     relay move up
 RELAY DOWN     D6     relay move down
